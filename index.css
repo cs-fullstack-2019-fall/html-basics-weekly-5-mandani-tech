@@ -1,0 +1,70 @@
+
+#left {
+    float: left;
+
+
+}
+
+#right {
+    float: right;
+}
+
+
+#google {
+
+    margin-left: 39%;
+    clear: both;
+}
+
+#f_left {
+    float: left;
+
+}
+
+#f_right {
+    float: right;
+
+}
+
+footer {
+
+    margin-top: 400px;
+    margin-left: 20px;
+    margin-right: 50px;
+    background: grey;
+    border: 1px solid gray;
+}
+
+
+input {
+    margin-left: 30%;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    color: grey;
+
+}
+
+#im_feeling_lucky {
+    margin-left: 10px;
+
+}
+
+input[type=text] {
+    width: 610px;
+    border: 2px solid lightgrey;
+    border-radius: 40px;
+    margin-bottom: 15px;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px;
+
+}
+
+#gray{
+    background: grey;
+}
