@@ -1,3 +1,5 @@
+##### See rubric in drive for total scores
+##### Great work! Be sure to include comments and pseudocode/planning for every weekly project. ‘I’m feeling lucky’ link goes to search. 
 # HTML/CSS Weekly 5
 
 Reproduce the Google search page
